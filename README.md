@@ -48,3 +48,5 @@ Through this project, I gained practical knowledge of: 1. Basic Natural Language
 3. Python programming and control structures
 4. Building interactive command-line applications
 5. Handling user input dynamically.
+OUTPUT:
+<img width="1111" height="332" alt="Image" src="https://github.com/user-attachments/assets/75a2e622-88b1-4038-8833-33ca7c519b23" />
