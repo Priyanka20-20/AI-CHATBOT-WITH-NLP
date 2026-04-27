@@ -54,4 +54,5 @@ Through this project, I gained practical knowledge of: 1. Basic Natural Language
 
 OUTPUT:
 <img width="1111" height="332" alt="Image" src="https://github.com/user-attachments/assets/75a2e622-88b1-4038-8833-33ca7c519b23" />
+Live domo video:
 https://drive.google.com/file/d/1pftEu5GpJVASBeiLlWDCPmEY1-3OT0F2/view?usp=drivesdk
